@@ -1,0 +1,180 @@
+{
+  "timestamp": "2025-10-04T15:33:39.309Z",
+  "products": {
+    "timestamp": "2025-10-04T15:33:39.309Z",
+    "total_products": 8,
+    "search_requests": [
+      "red shirt ralph lauren size s",
+      "black jeans calvin klein size s",
+      "socks nike size s",
+      "shoes size s thunders",
+      "shirt ralph lauren size s",
+      "jeans size s",
+      "shoes"
+    ],
+    "products": [
+      {
+        "name": "POLO RALPH LAUREN",
+        "category": "shirt",
+        "brand": "ralph lauren",
+        "price": 110,
+        "size": "s",
+        "color": "red",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81naTAafGAL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/Polo-Ralph-Lauren-Classic-Small/dp/B077QTN559/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-G1KoVfO9tLvB5YiwwjNXXIVCAgrwQSNFKQeL2R_gjFUY9oZW5M2De4CyGW849sK6Y_hVegQIcPM_2Gh0sZO9KtR-vGHrZVgwb6OnTBOHFVdWEhUj8WEbvhT9al1u2BYIF4COW1KzB38KfPmZmqK0wiD971_8j00xn7QBf5JrLwMkgCyukaIgKNGCwAp0oYISUfNF7CBl3ktn-Bn5H_p2z_uqx144eqahMt8-jLNS-Vx6pURoRPiFTr4jYejOzxi4cMuw6zc39V76nXLrFp1XtAX2LJFzrjR5TLX0e5ujyc.dm6KrSsdZbtJre2UF1fHBLmy0yHyXxGQ7d1X61hdySw&dib_tag=se&keywords=red+shirt+ralph+lauren+size+s&qid=1759591915&sr=8-1",
+        "createdAt": "2025-10-04T15:32:10.221Z",
+        "updatedAt": "2025-10-04T15:32:10.223Z",
+        "searchQuery": "red shirt ralph lauren size s",
+        "originalRequest": {
+          "category": "shirt",
+          "color": "red",
+          "brand": "ralph lauren",
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Calvin Klein",
+        "category": "jeans",
+        "brand": "calvin klein",
+        "price": 26,
+        "size": "s",
+        "color": "black",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/41GyJHONbfL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/Calvin-Klein-Straight-Forever-Black/dp/B0BDBNXYC6/ref=sr_1_4?dib=eyJ2IjoiMSJ9.hVe8ej4vBVDJFpSPCiRiRSNrnPqLp5ujPb_RpQPkTWoDtx_azMxLLWibEW2TzJHRWeCjZ0Rbgpo02Tuc_RkuDLeqzcMpFTV9QlHXrDzYls_rpKWiAfdlijiJQgpMdEKmQPePUZqWp3NGkDEwY44fClsWj1ML0wcVfJQ7FGaYvaRSMrBDX-TB2_bIJ4-069PtJzXhfgK8CcuxDbgniOYdgMYnHv-yvCMdYY-_asdobuppm5i32uAOfibmC06JWUiQ2HF0mI7g8EQsHN0G-lpJjnjVfQAF1MkLAPiBqz2StEM.ADesOZizFQJXw9wFQsPX8hvLupe1LsrO2vFby7vuJqw&dib_tag=se&keywords=black+jeans+calvin+klein+size+s&qid=1759591930&sr=8-4",
+        "createdAt": "2025-10-04T15:32:22.766Z",
+        "updatedAt": "2025-10-04T15:32:22.766Z",
+        "searchQuery": "black jeans calvin klein size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "black",
+          "brand": "calvin klein",
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Nike",
+        "category": "socks",
+        "brand": "nike",
+        "price": 21,
+        "size": "s",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61Z9+l2VotL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/Unisex-Dri-FIT-Cushion-Training-Socks/dp/B07CYVDSF4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8MsWB-Pb0OiM-wAPeZ-qAt6uuAWTP3NzrvpwzFDKD-St0hC0a8wynTEBus2s3HEMhXeIJOjAEp65O9LxFGpV4xvuPB6TKYMDuIb5Z2m7TNHfrZH_fmDAI5aMzaM_qYCIH7pCTlDoJh07ydOCtJeXc5hJ0ElVpt5qVxPPam8tPf_UJNymP7tRSf0Az3pHXEUntVMcczUyrEYuACUoEdtLPqRj1KMxwFcU8iKxbaN-hBq-gmjaXtskr8suarJD-1FD5UuEoNEnu0FLwDVIGNnAots3giCNVOndZLKIjsDs36Q.CCN-BPwrZBW8Lyno7ZxWk7llwQmkkpSJ6S9OvSXBdPk&dib_tag=se&keywords=socks+nike+size+s&qid=1759591942&sr=8-1",
+        "createdAt": "2025-10-04T15:32:35.691Z",
+        "updatedAt": "2025-10-04T15:32:35.691Z",
+        "searchQuery": "socks nike size s",
+        "originalRequest": {
+          "category": "socks",
+          "color": null,
+          "brand": "nike",
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "New Balance Men's Fresh Foam X Hierro V7 Shoes",
+        "category": "shoes",
+        "brand": "unknown",
+        "price": 149,
+        "size": "s",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81VUJ7BzVpL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/New-Balance-Running-Thunder-Vibrant/dp/B096N9141R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.gFBu8Zf_4OpveSJ5rTpNIB9RgyfpSSJ-iS6Y5xs-SvfVa5mqNKSSnMB-LnkA2rz5l0Ckh036xJEqkIrCFHpY1ld0hF6B_ClUf5wTAqWRXBr5O4E8aA7hwcHLDpf2-MXCZddTdng-AoK7dzxjlXXUXCZbGlXFx9LY-8NfqbrLqumdwht3BCxflXZwF57-D0eaOqZ4k2zDntPXUo1B6hFsPGm-zkQo6h5hwTo51yClH5VXWNlaLnFZxyylJkVF_hMf7d4fwmy-hdWnGv6grCouMjx0PWPjunYperCP3RxOBWY.qg6aj8rcsaB-ImAFFX8VqlAFheJEYLXfG-ziSwtpLqY&dib_tag=se&keywords=shoes+size+s+thunders&qid=1759591955&sr=8-1",
+        "createdAt": "2025-10-04T15:32:48.108Z",
+        "updatedAt": "2025-10-04T15:32:48.108Z",
+        "searchQuery": "shoes size s thunders",
+        "originalRequest": {
+          "category": "shoes",
+          "color": null,
+          "brand": null,
+          "size": "s",
+          "keywords": [
+            "thunders"
+          ]
+        }
+      },
+      {
+        "name": "POLO RALPH LAUREN",
+        "category": "shirt",
+        "brand": "ralph lauren",
+        "price": 49,
+        "size": "s",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/610R5m2LH6L._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/POLO-RALPH-LAUREN-Classic-Cotton/dp/B07GBW5YY1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DHQwXCwaXlAKjHmKZK2HHXB8ArUgRNtnOW1Kcvz8yHTqB_aYGdYWaHtftVkw5sLZf0uvXchYVDecXWQkI0WTSGWQ6UBeKoactWXl6wmkmHzHxoJOCB4xbroeda70I_f-4S0u_GGWR7H0szx0LpnAaig3WQDd08uDUYjWpFPlEM71Zt8T-x7aHObgdFmV0I3-TWh7DN0xkQHFsnmZJpAhl9IMkZLn0O_XX6Nh7tYD-kHrIxm3XmumF3sWozdSOkOmjfZ5Z0C68iO5M26DHQRudm0KDTa8hdKRgFSo9Oxr21Q._I52Hr8XnotnTKJenZ96RB0tX12mNXvoHoHjAZNUbyA&dib_tag=se&keywords=shirt+ralph+lauren+size+s&qid=1759591968&sr=8-1",
+        "createdAt": "2025-10-04T15:33:00.946Z",
+        "updatedAt": "2025-10-04T15:33:00.946Z",
+        "searchQuery": "shirt ralph lauren size s",
+        "originalRequest": {
+          "category": "shirt",
+          "color": null,
+          "brand": "ralph lauren",
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Lee",
+        "category": "jeans",
+        "brand": "unknown",
+        "price": 39,
+        "size": "s",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71IOM9JNWhL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/LEE-Womens-Regular-Bootcut-Majestic/dp/B07B6FCYRG/ref=sr_1_5?dib=eyJ2IjoiMSJ9.W0qUz6j43JTGP5tb92BOPZ-vvDod2da_EPQHd8ITMxtayy1CJDJ_8RphOsEBA-xUQjzXyJVWNs2zDdPRq3y38Nt_L7nQEsDsuAQAlyjkBbv4vIwco88jyUXTFVhcFhWjHEIpAsfguvmjOjThgn6sywjlVgq_4euGgvBwq4Rb09kzGY05QhOgMBUbtnkX0Z8RqSMllCeV4gxUuqUpLxidccNz5mqFCR5nOGD851UWsryYbthoFHrO6HyL3ebmkBwngLTWdPwSjZHO5VTHxd7nmOPa_VpZBIPRnEFLobpAmrQ.BWW3HS5tEuDseahyrveflPaXUZzbzZ3lVRdGkU8_sRA&dib_tag=se&keywords=jeans+size+s&qid=1759591981&sr=8-5",
+        "createdAt": "2025-10-04T15:33:14.112Z",
+        "updatedAt": "2025-10-04T15:33:14.112Z",
+        "searchQuery": "jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": null,
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Nike",
+        "category": "socks",
+        "brand": "nike",
+        "price": 21,
+        "size": "s",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61Z9+l2VotL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/Unisex-Dri-FIT-Cushion-Training-Socks/dp/B07CYVDSF4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8MsWB-Pb0OiM-wAPeZ-qAt6uuAWTP3NzrvpwzFDKD-St0hC0a8wynTEBus2s3HEMhXeIJOjAEp65O9LxFGpV4xvuPB6TKYMDuIb5Z2m7TNHfrZH_fmDAI5aMzaM_qYCIH7pCTlDoJh07ydOCtJeXc5hJ0ElVpt5qVxPPam8tPf_UJNymP7tRSf0Az3pHXEUntVMcczUyrEYuACUoEdtLPqRj1KMxwFcU8iKxbaN-hBq-gmjaXtskr8suarJD-1FD5UuEoNEnu0FLwDVIGNnAots3giCNVOndZLKIjsDs36Q.CCN-BPwrZBW8Lyno7ZxWk7llwQmkkpSJ6S9OvSXBdPk&dib_tag=se&keywords=socks+nike+size+s&qid=1759591994&sr=8-1",
+        "createdAt": "2025-10-04T15:33:26.756Z",
+        "updatedAt": "2025-10-04T15:33:26.756Z",
+        "searchQuery": "socks nike size s",
+        "originalRequest": {
+          "category": "socks",
+          "color": null,
+          "brand": "nike",
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "KIDMI",
+        "category": "shoes",
+        "brand": "unknown",
+        "price": 29,
+        "size": "m",
+        "color": null,
+        "thumbnail_url": "https://m.media-amazon.com/images/I/810zAULuvKL._AC_UL320_.jpg",
+        "product_url": "https://www.amazon.com/KIDMI-Leather-Footbed-Sandals-Support/dp/B0BS6G9WG6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.fGZEY6rRMLw0ekWkArjaWxjmiFNeLgX74Sk8LBo9pLoGgoeRa_XgBVfudgW_BXZhw_YT5cP_EjC9o21MkQZdKqARdXQl_6bX085LFpeoMgGJCQEga5vaOSa6Imo1FaOJoBNgm2BTYB3jUDrOJk7qe7O9qFsWmsbBv8nqSMDeC5I-FkK7itJKHHVYU09vXooYQrJZhvC75WdOlwqDJeMPakRJFbeBomV2D4QHGoV2BXg1lGtYF12elzlxUSMH_1f2xebDIcdymIDVIZIFeKk4Mk4yMjiNEQ9lU2pV_Geakog.-PeWuLoLxPbCa_NM_amh04OMz4e1_UVpn28Rzbsy9o8&dib_tag=se&keywords=shoes&qid=1759592006&sr=8-2",
+        "createdAt": "2025-10-04T15:33:39.307Z",
+        "updatedAt": "2025-10-04T15:33:39.307Z",
+        "searchQuery": "shoes",
+        "originalRequest": {
+          "category": "shoes",
+          "color": null,
+          "brand": null,
+          "size": null,
+          "keywords": []
+        }
+      }
+    ]
+  }
+}

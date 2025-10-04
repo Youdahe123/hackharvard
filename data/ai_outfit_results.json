@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-10-04T15:40:35.321Z",
+  "products": {
+    "timestamp": "2025-10-04T15:40:35.320Z",
+    "originalPrompt": "so i want a cool looking blue nike hoodie with some jeans and white adidas shoes",
+    "totalItems": 3,
+    "totalCost": 121,
+    "items": [
+      {
+        "name": "Nike",
+        "category": "hoodie",
+        "price": "65.",
+        "full_resolution_image": "https://m.media-amazon.com/images/I/71--eXFz7TL.jpg",
+        "searchQuery": "blue nike hoodie men"
+      },
+      {
+        "name": "Rustler",
+        "category": "pants",
+        "price": "14.",
+        "full_resolution_image": "https://m.media-amazon.com/images/I/71HVSFd9fyL.jpg",
+        "searchQuery": "men's jeans"
+      },
+      {
+        "name": "adidas",
+        "category": "shoes",
+        "price": "42.",
+        "full_resolution_image": "https://m.media-amazon.com/images/I/61WCGhLlXmL.jpg",
+        "searchQuery": "white adidas shoes men"
+      }
+    ]
+  }
+}

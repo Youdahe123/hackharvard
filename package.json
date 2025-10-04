@@ -1,0 +1,29 @@
+{
+  "name": "ecommerce-scraper-agent",
+  "version": "1.0.0",
+  "description": "AI agent for automated e-commerce product search and extraction using Puppeteer",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/test.js"
+  },
+  "keywords": ["puppeteer", "scraping", "ecommerce", "automation", "ai-agent"],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.5.2",
+    "commander": "^11.1.0",
+    "csv-writer": "^1.6.0",
+    "sqlite3": "^5.1.6",
+    "chalk": "^5.3.0",
+    "ora": "^7.0.1",
+    "openai": "^4.20.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
+

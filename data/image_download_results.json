@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-10-04T15:04:02.577Z",
+  "total_products": 2,
+  "products": [
+    {
+      "product_title": "Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones",
+      "product_url": "https://www.amazon.com/dp/B08N5WRWNW",
+      "image_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+      "local_path": "/Users/asfawy/hackharvard/data/images/sony_wh-10/sony_wh-1000xm4_wireless_premium_noise_canceling_o.jpg"
+    },
+    {
+      "product_title": "Apple AirPods Pro (2nd Generation)",
+      "product_url": "https://www.amazon.com/dp/B08N5WRWNW",
+      "image_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+      "local_path": "/Users/asfawy/hackharvard/data/images/apple_airp/apple_airpods_pro_2nd_generation.jpg"
+    }
+  ]
+}

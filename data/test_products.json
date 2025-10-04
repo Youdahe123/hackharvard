@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-10-04T14:58:06.111Z",
+  "total_products": 2,
+  "products": [
+    {
+      "product_href": "https://example.com/product1",
+      "title": "Test Product 1",
+      "thumbnail": "https://example.com/image1.jpg"
+    },
+    {
+      "product_href": "https://example.com/product2",
+      "title": "Test Product 2",
+      "thumbnail": "https://example.com/image2.jpg"
+    }
+  ]
+}

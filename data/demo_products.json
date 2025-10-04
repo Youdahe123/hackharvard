@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-04T14:59:57.287Z",
+  "total_products": 2,
+  "products": [
+    {
+      "product_href": "https://www.amazon.com/dp/B08N5WRWNW",
+      "title": "Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+      "price": "$278.00",
+      "rating": "4.6 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.asos.com/us/product/12345",
+      "title": "Men's Puffer Jacket",
+      "thumbnail": "https://images.asos-media.com/products/...",
+      "price": "$89.99",
+      "rating": "4.5 out of 5 stars"
+    }
+  ]
+}

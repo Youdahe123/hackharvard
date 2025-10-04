@@ -1,0 +1,349 @@
+{
+  "timestamp": "2025-10-04T15:07:27.119Z",
+  "products": {
+    "timestamp": "2025-10-04T15:07:27.118Z",
+    "total_products": 16,
+    "search_requests": [
+      "green hoodie want",
+      "blue jeans size s"
+    ],
+    "products": [
+      {
+        "name": "Uniqlo Green Hoodie - Size M (Style 1)",
+        "category": "hoodie",
+        "brand": "uniqlo",
+        "price": 29.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/163337",
+        "createdAt": "2025-10-04T15:07:25.613Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Uniqlo Green Hoodie - Size M (Style 2)",
+        "category": "hoodie",
+        "brand": "uniqlo",
+        "price": 79.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/848784",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Gap Green Hoodie - Size M (Style 3)",
+        "category": "hoodie",
+        "brand": "gap",
+        "price": 299.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/878753",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Levi's Green Hoodie - Size M (Style 4)",
+        "category": "hoodie",
+        "brand": "levis",
+        "price": 199.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/744702",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Tommy Hilfiger Green Hoodie - Size M (Style 5)",
+        "category": "hoodie",
+        "brand": "tommy hilfiger",
+        "price": 29.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/924736",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Nike Green Hoodie - Size M (Style 6)",
+        "category": "hoodie",
+        "brand": "nike",
+        "price": 299.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/841000",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Nike Green Hoodie - Size M (Style 7)",
+        "category": "hoodie",
+        "brand": "nike",
+        "price": 79.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/449800",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Tommy Hilfiger Green Hoodie - Size M (Style 8)",
+        "category": "hoodie",
+        "brand": "tommy hilfiger",
+        "price": 79.99,
+        "size": "s",
+        "color": "green",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/274751",
+        "createdAt": "2025-10-04T15:07:25.614Z",
+        "updatedAt": "2025-10-04T15:07:25.614Z",
+        "searchQuery": "green hoodie want",
+        "originalRequest": {
+          "category": "hoodie",
+          "color": "green",
+          "brand": null,
+          "size": null,
+          "keywords": [
+            "want"
+          ]
+        }
+      },
+      {
+        "name": "Uniqlo Blue Jeans - Size S (Style 1)",
+        "category": "jeans",
+        "brand": "uniqlo",
+        "price": 29.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/388516",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Gap Blue Jeans - Size S (Style 2)",
+        "category": "jeans",
+        "brand": "gap",
+        "price": 199.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/522393",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Gap Blue Jeans - Size S (Style 3)",
+        "category": "jeans",
+        "brand": "gap",
+        "price": 129.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/304604",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Tommy Hilfiger Blue Jeans - Size S (Style 4)",
+        "category": "jeans",
+        "brand": "tommy hilfiger",
+        "price": 29.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/973720",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Zara Blue Jeans - Size S (Style 5)",
+        "category": "jeans",
+        "brand": "zara",
+        "price": 129.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/778146",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Uniqlo Blue Jeans - Size S (Style 6)",
+        "category": "jeans",
+        "brand": "uniqlo",
+        "price": 79.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/616678",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "H&M Blue Jeans - Size S (Style 7)",
+        "category": "jeans",
+        "brand": "h&m",
+        "price": 29.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://images.asos-media.com/products/example-product.jpg",
+        "product_url": "https://www.asos.com/us/product/288432",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      },
+      {
+        "name": "Levi's Blue Jeans - Size S (Style 8)",
+        "category": "jeans",
+        "brand": "levis",
+        "price": 79.99,
+        "size": "s",
+        "color": "blue",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+        "product_url": "https://www.asos.com/us/product/706540",
+        "createdAt": "2025-10-04T15:07:27.116Z",
+        "updatedAt": "2025-10-04T15:07:27.116Z",
+        "searchQuery": "blue jeans size s",
+        "originalRequest": {
+          "category": "jeans",
+          "color": "blue",
+          "brand": null,
+          "size": "s",
+          "keywords": []
+        }
+      }
+    ]
+  }
+}

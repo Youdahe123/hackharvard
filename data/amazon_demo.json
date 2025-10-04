@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-10-04T15:01:19.370Z",
+  "total_products": 24,
+  "products": [
+    {
+      "product_href": "https://www.amazon.com/dp/B0000518423",
+      "title": "Sony Premium Audio System - wireless headphones (Model 1)",
+      "thumbnail": "https://m.media-amazon.com/images/I/289sQkn5liy9Grtn4eAy.jpg",
+      "price": "$299.99",
+      "rating": "4.2 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000227074",
+      "title": "Samsung Bluetooth Speakers - wireless headphones (Model 2)",
+      "thumbnail": "https://m.media-amazon.com/images/I/B23bqe9Gsp6Bz7Mg2zKl.jpg",
+      "price": "$599.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000568903",
+      "title": "Apple Gaming Microphone - wireless headphones (Model 3)",
+      "thumbnail": "https://m.media-amazon.com/images/I/NbdFdzpTwzszAlDBYDTi.jpg",
+      "price": "$29.99",
+      "rating": "4.8 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000595885",
+      "title": "Apple Professional Microphone - wireless headphones (Model 4)",
+      "thumbnail": "https://m.media-amazon.com/images/I/lXUV8Ddlf2sm2hWWvtYl.jpg",
+      "price": "$29.99",
+      "rating": "4.7 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000736264",
+      "title": "Samsung Gaming Speakers - wireless headphones (Model 5)",
+      "thumbnail": "https://m.media-amazon.com/images/I/Lp9G51zq7r5Wpd6HGCvO.jpg",
+      "price": "$79.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000683461",
+      "title": "Beats Gaming Headphones - wireless headphones (Model 6)",
+      "thumbnail": "https://m.media-amazon.com/images/I/p7ChK96MXaHtpwnLkDeK.jpg",
+      "price": "$199.99",
+      "rating": "4.5 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000278662",
+      "title": "Beats Gaming Headphones - wireless headphones (Model 7)",
+      "thumbnail": "https://m.media-amazon.com/images/I/UVrQsLzyAnSK5QmAZCEH.jpg",
+      "price": "$129.99",
+      "rating": "4.5 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000001764",
+      "title": "Beats Studio Earbuds - wireless headphones (Model 8)",
+      "thumbnail": "https://m.media-amazon.com/images/I/RZCcK5a6eXfXg14fdS6W.jpg",
+      "price": "$49.99",
+      "rating": "4.2 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000551982",
+      "title": "Sony Premium Speakers - wireless headphones (Model 9)",
+      "thumbnail": "https://m.media-amazon.com/images/I/GwjSa8I1GvNYRVjCpKv0.jpg",
+      "price": "$399.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000754387",
+      "title": "Sony Bluetooth Earbuds - wireless headphones (Model 10)",
+      "thumbnail": "https://m.media-amazon.com/images/I/UGSxfBaWN4KQ5yINHuLI.jpg",
+      "price": "$79.99",
+      "rating": "4.7 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000305921",
+      "title": "Bose Gaming Audio System - wireless headphones (Model 11)",
+      "thumbnail": "https://m.media-amazon.com/images/I/VLR5mGxzY8dKIv7jn1x9.jpg",
+      "price": "$49.99",
+      "rating": "4.7 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000265371",
+      "title": "Bose Studio Audio System - wireless headphones (Model 12)",
+      "thumbnail": "https://m.media-amazon.com/images/I/kLYiKnrfwsB3cKkOLg57.jpg",
+      "price": "$399.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000760616",
+      "title": "Audio-Technica Premium Speakers - wireless headphones (Model 13)",
+      "thumbnail": "https://m.media-amazon.com/images/I/AzD3Hphtrnp0F8YzHhnw.jpg",
+      "price": "$49.99",
+      "rating": "4.8 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000933913",
+      "title": "Audio-Technica Bluetooth Earbuds - wireless headphones (Model 14)",
+      "thumbnail": "https://m.media-amazon.com/images/I/ZcW44pEhDGN8maAexK1a.jpg",
+      "price": "$29.99",
+      "rating": "4.7 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000831265",
+      "title": "Beats Professional Headphones - wireless headphones (Model 15)",
+      "thumbnail": "https://m.media-amazon.com/images/I/lRLmy4R98ZfzPya9WHkv.jpg",
+      "price": "$49.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000346377",
+      "title": "Apple Studio Audio System - wireless headphones (Model 16)",
+      "thumbnail": "https://m.media-amazon.com/images/I/Nl8B0GUj787IFuMlzlMg.jpg",
+      "price": "$199.99",
+      "rating": "4.8 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000784231",
+      "title": "Beats Noise Cancelling Microphone - wireless headphones (Model 17)",
+      "thumbnail": "https://m.media-amazon.com/images/I/wk7V2Ge92TDCTxC5mqx9.jpg",
+      "price": "$599.99",
+      "rating": "4.2 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000062398",
+      "title": "JBL Studio Speakers - wireless headphones (Model 18)",
+      "thumbnail": "https://m.media-amazon.com/images/I/jMWcjAIrH4LV0aO9grG5.jpg",
+      "price": "$599.99",
+      "rating": "4.7 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000236789",
+      "title": "Samsung Studio Microphone - wireless headphones (Model 19)",
+      "thumbnail": "https://m.media-amazon.com/images/I/OEnMehqAeS8nFVxpPyO6.jpg",
+      "price": "$79.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000970041",
+      "title": "JBL Premium Audio System - wireless headphones (Model 20)",
+      "thumbnail": "https://m.media-amazon.com/images/I/KXtT0v4VAZkv3hMsa2Yl.jpg",
+      "price": "$399.99",
+      "rating": "4.8 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000588958",
+      "title": "Apple Bluetooth Audio System - wireless headphones (Model 21)",
+      "thumbnail": "https://m.media-amazon.com/images/I/QxexoeIrp2ibAW0GELYs.jpg",
+      "price": "$29.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000182848",
+      "title": "Sony Bluetooth Speakers - wireless headphones (Model 22)",
+      "thumbnail": "https://m.media-amazon.com/images/I/OomFjGfInffUmHjy2J99.jpg",
+      "price": "$399.99",
+      "rating": "4.2 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000142039",
+      "title": "Sony Premium Microphone - wireless headphones (Model 23)",
+      "thumbnail": "https://m.media-amazon.com/images/I/qCWytXF00kUJaduzcPgv.jpg",
+      "price": "$599.99",
+      "rating": "4.9 out of 5 stars"
+    },
+    {
+      "product_href": "https://www.amazon.com/dp/B0000884843",
+      "title": "Bose Professional Speakers - wireless headphones (Model 24)",
+      "thumbnail": "https://m.media-amazon.com/images/I/dCBcWbUQYTW39graup8G.jpg",
+      "price": "$49.99",
+      "rating": "4.2 out of 5 stars"
+    }
+  ]
+}
